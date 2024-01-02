@@ -1,0 +1,14 @@
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinFormsChess.Form1.resources
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinFormsChess.csproj.GenerateResource.cache
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinFormsChess.csproj.CoreCompileInputs.cache
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Debug\WinForms Chess.exe.config
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Debug\WinForms Chess.exe.manifest
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Debug\WinForms Chess.application
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Debug\WinForms Chess.exe
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Debug\WinForms Chess.pdb
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinFormsChess.Properties.Resources.resources
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinForms Chess.exe.manifest
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinForms Chess.application
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinForms Chess.exe
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinForms Chess.pdb
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Debug\WinFormsChess.csproj.AssemblyReference.cache

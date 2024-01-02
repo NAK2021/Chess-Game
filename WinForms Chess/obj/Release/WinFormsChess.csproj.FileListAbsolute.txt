@@ -1,0 +1,42 @@
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Release\WinForms Chess.exe.config
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Release\WinForms Chess.exe.manifest
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Release\WinForms Chess.application
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Release\WinForms Chess.exe
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\bin\Release\WinForms Chess.pdb
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.AssemblyReference.cache
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinFormsChess.Form1.resources
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinFormsChess.Properties.Resources.resources
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.GenerateResource.cache
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.CoreCompileInputs.cache
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinForms Chess.exe.manifest
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinForms Chess.application
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinForms Chess.exe
+C:\Users\User\Software\C#\Games\Chess\WinForms Chess\obj\Release\WinForms Chess.pdb
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.AssemblyReference.cache
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinFormsChess.Form1.resources
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinFormsChess.Properties.Resources.resources
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.GenerateResource.cache
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinFormsChess.csproj.CoreCompileInputs.cache
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinForms Chess.exe
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinForms Chess.pdb
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\bin\Release\WinForms Chess.exe.config
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\bin\Release\WinForms Chess.exe.manifest
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\bin\Release\WinForms Chess.application
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\bin\Release\WinForms Chess.exe
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\bin\Release\WinForms Chess.pdb
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinForms Chess.exe.manifest
+O:\Code\C# Window Form Applications\Chess\Chess\WinForms Chess\obj\Release\WinForms Chess.application
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\bin\Release\WinForms Chess.exe.config
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\bin\Release\WinForms Chess.exe.manifest
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\bin\Release\WinForms Chess.application
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\bin\Release\WinForms Chess.exe
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\bin\Release\WinForms Chess.pdb
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinFormsChess.csproj.AssemblyReference.cache
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinFormsChess.Form1.resources
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinFormsChess.Properties.Resources.resources
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinFormsChess.csproj.GenerateResource.cache
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinFormsChess.csproj.CoreCompileInputs.cache
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinForms Chess.exe.manifest
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinForms Chess.application
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinForms Chess.exe
+C:\Users\NAK\source\repos\Chess\Chess_Study_Purpose\WinForms Chess\obj\Release\WinForms Chess.pdb
